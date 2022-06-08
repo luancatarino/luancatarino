@@ -40,12 +40,6 @@
   </div>
   
   ![Snake animation](https://github.com/luancatarino/luancatarino/blob/output/github-contribution-grid-snake.svg)
-  
-  <div align="center">
-<br>
-    <p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luancatarino}/count.svg" /></p> 
-<br></div>
-  
+    
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=100&section=footer"/>
