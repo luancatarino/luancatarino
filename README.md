@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1E23&height=140&section=header&text=Luan&fontSize=30&fontColor=808080&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=00bfbf&height=100&text=Luan&fontAlign=85&rotate=7&fontAlignY=25" > 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Luan;WELCOME!+:%29)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 
 <br>
 
-📖 I'm a studying at Kenzie Academy Brazil - Full Stack
+📖 I'm studying at Kenzie Academy Brazil - Full Stack
 
 🌱 Learning Node.JS
 
@@ -40,6 +40,3 @@
   </div>
   
   ![Snake animation](https://github.com/luancatarino/luancatarino/blob/output/github-contribution-grid-snake.svg)
-    
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1E23&height=100&section=footer"/>
