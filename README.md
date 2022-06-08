@@ -6,7 +6,7 @@
 
 <br>
 
-📖 I'm a student, technology enthusiast, currently developing as FullStack Developer at Kenzie Academy Brazil
+📖 I'm a studying at Kenzie Academy Brazil - Full Stack
 
 🌱 Learning Node.JS
 
