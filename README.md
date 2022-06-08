@@ -1,14 +1,18 @@
-## Hi! My name is Luan!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=140&section=header&text=Luan&fontSize=30&fontColor=808080&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Luan;WELCOME!+:%29)](https://git.io/typing-svg)
+
+<!-- ## Hi! My name is Luan! -->
 
 <br>
 
-🔭 I'm a student, technology enthusiast, currently developing as FullStack Developer at Kenzie Academy Brazil
+📖 I'm a student, technology enthusiast, currently developing as FullStack Developer at Kenzie Academy Brazil
 
 🌱 Learning Node.JS
 
 💬 Ask me about Front-End Development
 
-📫 How to reach me? luancatarino@gmail.com
+📨 How to reach me? luancatarino@gmail.com
 
 ##
 
@@ -36,3 +40,12 @@
   </div>
   
   ![Snake animation](https://github.com/luancatarino/luancatarino/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align="center">
+<br>
+    <p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luancatarino}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=100&section=footer"/>
