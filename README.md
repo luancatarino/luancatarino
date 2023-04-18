@@ -6,11 +6,9 @@
 
 <br>
 
-📖 I'm studying at Kenzie Academy Brazil - Full Stack
+📖 I'm a Full Stack Developer
 
-🌱 Learning Node.JS
-
-💬 Ask me about Front-End Development
+💬 Ask me about Web Development
 
 📨 How to reach me? luancatarino@gmail.com
 
